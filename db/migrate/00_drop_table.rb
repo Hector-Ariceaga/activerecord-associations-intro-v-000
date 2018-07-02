@@ -1,6 +1,0 @@
-class DropTable < ActiveRecord::Migration[4.2]
-  def change
-    drop_table :sons
-  end
-end
-  
